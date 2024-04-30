@@ -11,6 +11,9 @@
 p {
   text-align: center;
 }
+em strong {
+  color: #FF0000;
+}
 
 #missao {
   font-size: 28px;
